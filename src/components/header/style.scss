@@ -1,0 +1,19 @@
+header {
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 10px;
+  background-color: aquamarine;
+
+  .wrap {
+    display: block;
+    width: 100%;
+    margin: 0;
+    padding: 0.5em;
+    max-width: 980px;
+
+    img {
+      width: 100px;
+      height: 100px;
+    }
+  }
+}
